@@ -1,6 +1,6 @@
 # opencv_python_exercise
 
-- 檔案說明
+- opencv_exercise裡的檔案說明
   - project_1 是主程式
   - sources 裡有分類器
   - function 裡有變換圖片的函數
